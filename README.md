@@ -21,9 +21,3 @@ The software is composed of 3 fields :
 - The slave password
 
 The slave password is computed as you type, so you don't have to click anywhere.
-
-## Links
-
-More informations can be found on my personnal website [elwinar.com](http://elwinar.com/article/un-generateur-de-mots-de-passe) (beware, article in french), and a PHP/JavaScript version can be found [here](http://elwinar.com/tools/slave-password-generator).
-
-If you have some remarks, suggestions, etc, don't hesitate to contact me by any mean, I'm always pleased to help.
